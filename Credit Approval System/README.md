@@ -2,7 +2,7 @@
 
 Backend system for credit approval and loan management built with Django 4+ and Django Rest Framework
 
-## 🚀 Single Command Setup
+##  Single Command Setup
 
 ```bash
 # Start all services (DB, Web, Redis, Celery)
